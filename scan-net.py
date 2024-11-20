@@ -15,3 +15,5 @@ if __name__ == '__main__':
          print ('Port %d: OPEN' % (i,))
       s.close()
 print('Time taken:', time.time() - startTime)
+
+# ligne supp
