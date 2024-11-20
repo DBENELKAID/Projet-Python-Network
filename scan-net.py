@@ -16,4 +16,3 @@ if __name__ == '__main__':
       s.close()
 print('Time taken:', time.time() - startTime)
 
-# ligne supp
